@@ -1,5 +1,5 @@
 
-type Role = 'customer'|'mil provider';
+type Role = 'customer'|'provider';
 type Status = 'active' | 'inactive';
 
 export interface TUser {
